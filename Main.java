@@ -35,6 +35,13 @@ public class Main {
         }
         System.out.println();
         System.out.println("El arreglo tiene "+Res.size()+ "  cantidad de enteros");
+        System.out.println("cambio");
+        System.out.println("El arreglo tiene "+Res.size()+ "  cantidad de enteros");
+        System.out.println("El arreglo tiene "+Res.size()+ "  cantidad de enteros");
+        System.out.println("El arreglo tiene "+Res.size()+ "  cantidad de enteros");
+        System.out.println("El arreglo tiene "+Res.size()+ "  cantidad de enteros");
+       
+        
     }
     }
 
